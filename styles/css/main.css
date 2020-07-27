@@ -21,7 +21,7 @@
   background-color: indigo;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 768px) {
   .parent {
     height: 100vh;
     flex-direction: column;
